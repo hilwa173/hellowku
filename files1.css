@@ -1,0 +1,10 @@
+header {
+    background-color: #ff0000; /* Replace with your favorite color */
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    font-size: 24px;
+    margin: 0;
+  }
